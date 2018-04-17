@@ -1,0 +1,13 @@
+{
+  "name": "flex-reset",
+  "version": "1.0.0",
+  "description": "A simple flex helper reset",
+  "author": "Antonio Eduardo",
+  "license": "Unlicense",
+  "repository": "SkyaTura/flex-reset",
+  "style": "flex-reset.css",
+  "main": "reset.css",
+  "files": [
+    "flex-reset.css"
+  ]
+}
