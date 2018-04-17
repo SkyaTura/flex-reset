@@ -6,7 +6,7 @@
   "license": "Unlicense",
   "repository": "SkyaTura/flex-reset",
   "style": "flex-reset.css",
-  "main": "reset.css",
+  "main": "flex-reset.css",
   "files": [
     "flex-reset.css"
   ]
